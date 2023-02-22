@@ -1,6 +1,7 @@
 # **c#**
 ## index
-  1.[basic(구문_문법)](1.basic(구문_문법))<br>
+  1.[if](1.if)<br>
+  1.[for](2.for)<br>
   
   
 ---
