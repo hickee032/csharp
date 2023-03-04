@@ -1,49 +1,21 @@
-# **python**
+# **csharp basic(구문_문법)**
 ## index
-  1.[syntax (구문, 문법)](1.syntax (구문, 문법))<br>
-  2.[exercise (연습)](2.exercise)<br>
-  3.[crawling(크롤링)](3.crawling(크롤링))<br>
-  4.[Lesson](Lesson)<br>
-  5.[Lesson](Lesson)<br>
+  1.[basic(네임스페이스)](1.basic(네임스페이스))<br>
+  2.[array(배열)](2.array(배열))<br>
+  3.[conditional(조건문)](3.conditional(조건문))<br>
+  4.[iteration(반복문)](4.iteration(반복문))<br>
+  5.[list(리스트)](5.list(리스트))<br>
+  6.[class(클래스](6.class(클래스))<br>
+  7.[dictionary(딕셔너리)](7.dictionary(딕셔너리))<br>
+  8.[stack_Queue(스택_큐)](8.stack_Queue(스택_큐))<br>
+  9.[Inheritance(상속)](9.Inheritance(상속))<br>
 
----
+<!-- ---
 ## 1.syntax (구문, 문법)
-
-    class (클래스)
-
-    controlstatement (제어문)
-
-    dataType (데이터 타입)
-
-    dictionary (딕셔너리)
-
-    file io (파일 입출력)
-
-    function (함수)
-
-    io (입출력)
-
-    iteration (반복문)
-
-    list (리스트)
-
-    module (모듈화)
-
-    package (패키지)
-
-    tuple (튜플)
 
 ---
 ## 2.exercise
 
-    package
-    If_else
-    class
-    dataType
-    function
-    list_ dictionary
 ---    
-## 3.crawling(크롤링)
+## 3.crawling(크롤링) -->
 
-    beautifulsoup (뷰티풀 수프)
-    selenium (셀레리움)
