@@ -9,6 +9,8 @@
   7.[dictionary(딕셔너리)](7.dictionary(딕셔너리))<br>
   8.[stack_Queue(스택_큐)](8.stack_Queue(스택_큐))<br>
   9.[Inheritance(상속)](9.Inheritance(상속))<br>
+  10.[collection(컬렉션)](10.collection(컬렉션))<br>
+  11.[connect_db(db연결)](11.connect_db(db연결))<br>
 
 <!-- ---
 ## 1.syntax (구문, 문법)
