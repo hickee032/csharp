@@ -1,0 +1,11 @@
+C:\Users\bluep\source\repos\CS_Win_inflearn\CS_Win_inflearn\bin\Debug\CS_Win_inflearn.exe.config
+C:\Users\bluep\source\repos\CS_Win_inflearn\CS_Win_inflearn\bin\Debug\CS_Win_inflearn.exe
+C:\Users\bluep\source\repos\CS_Win_inflearn\CS_Win_inflearn\bin\Debug\CS_Win_inflearn.pdb
+C:\Users\bluep\source\repos\CS_Win_inflearn\CS_Win_inflearn\obj\Debug\CS_Win_inflearn.csproj.AssemblyReference.cache
+C:\Users\bluep\source\repos\CS_Win_inflearn\CS_Win_inflearn\obj\Debug\CS_Win_inflearn.csproj.SuggestedBindingRedirects.cache
+C:\Users\bluep\source\repos\CS_Win_inflearn\CS_Win_inflearn\obj\Debug\CS_Win_inflearn.Form1.resources
+C:\Users\bluep\source\repos\CS_Win_inflearn\CS_Win_inflearn\obj\Debug\CS_Win_inflearn.Properties.Resources.resources
+C:\Users\bluep\source\repos\CS_Win_inflearn\CS_Win_inflearn\obj\Debug\CS_Win_inflearn.csproj.GenerateResource.cache
+C:\Users\bluep\source\repos\CS_Win_inflearn\CS_Win_inflearn\obj\Debug\CS_Win_inflearn.csproj.CoreCompileInputs.cache
+C:\Users\bluep\source\repos\CS_Win_inflearn\CS_Win_inflearn\obj\Debug\CS_Win_inflearn.exe
+C:\Users\bluep\source\repos\CS_Win_inflearn\CS_Win_inflearn\obj\Debug\CS_Win_inflearn.pdb
