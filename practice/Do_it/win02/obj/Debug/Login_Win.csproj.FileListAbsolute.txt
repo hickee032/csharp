@@ -1,0 +1,11 @@
+C:\Users\bluep\source\repos\CS_Win_inflearn\Login_Win\bin\Debug\Login_Win.exe.config
+C:\Users\bluep\source\repos\CS_Win_inflearn\Login_Win\bin\Debug\Login_Win.exe
+C:\Users\bluep\source\repos\CS_Win_inflearn\Login_Win\bin\Debug\Login_Win.pdb
+C:\Users\bluep\source\repos\CS_Win_inflearn\Login_Win\obj\Debug\Login_Win.csproj.AssemblyReference.cache
+C:\Users\bluep\source\repos\CS_Win_inflearn\Login_Win\obj\Debug\Login_Win.csproj.SuggestedBindingRedirects.cache
+C:\Users\bluep\source\repos\CS_Win_inflearn\Login_Win\obj\Debug\Login_Win.Form1.resources
+C:\Users\bluep\source\repos\CS_Win_inflearn\Login_Win\obj\Debug\Login_Win.Properties.Resources.resources
+C:\Users\bluep\source\repos\CS_Win_inflearn\Login_Win\obj\Debug\Login_Win.csproj.GenerateResource.cache
+C:\Users\bluep\source\repos\CS_Win_inflearn\Login_Win\obj\Debug\Login_Win.csproj.CoreCompileInputs.cache
+C:\Users\bluep\source\repos\CS_Win_inflearn\Login_Win\obj\Debug\Login_Win.exe
+C:\Users\bluep\source\repos\CS_Win_inflearn\Login_Win\obj\Debug\Login_Win.pdb
