@@ -1,0 +1,11 @@
+C:\Users\bluep\source\repos\CS_Win_inflearn\FindNumber_Win\bin\Debug\FindNumber_Win.exe.config
+C:\Users\bluep\source\repos\CS_Win_inflearn\FindNumber_Win\bin\Debug\FindNumber_Win.exe
+C:\Users\bluep\source\repos\CS_Win_inflearn\FindNumber_Win\bin\Debug\FindNumber_Win.pdb
+C:\Users\bluep\source\repos\CS_Win_inflearn\FindNumber_Win\obj\Debug\FindNumber_Win.csproj.AssemblyReference.cache
+C:\Users\bluep\source\repos\CS_Win_inflearn\FindNumber_Win\obj\Debug\FindNumber_Win.csproj.SuggestedBindingRedirects.cache
+C:\Users\bluep\source\repos\CS_Win_inflearn\FindNumber_Win\obj\Debug\FindNumber_Win.Form1.resources
+C:\Users\bluep\source\repos\CS_Win_inflearn\FindNumber_Win\obj\Debug\FindNumber_Win.Properties.Resources.resources
+C:\Users\bluep\source\repos\CS_Win_inflearn\FindNumber_Win\obj\Debug\FindNumber_Win.csproj.GenerateResource.cache
+C:\Users\bluep\source\repos\CS_Win_inflearn\FindNumber_Win\obj\Debug\FindNumber_Win.csproj.CoreCompileInputs.cache
+C:\Users\bluep\source\repos\CS_Win_inflearn\FindNumber_Win\obj\Debug\FindNumber_Win.exe
+C:\Users\bluep\source\repos\CS_Win_inflearn\FindNumber_Win\obj\Debug\FindNumber_Win.pdb
